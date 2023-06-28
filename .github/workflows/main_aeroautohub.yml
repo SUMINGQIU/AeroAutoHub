@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AeroAutoHub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AC18F120A2D4FC9ABA93BCBCCBA1610 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E68E6BDA3CFF40569CADE678AD5FC92B }}
           package: .
